@@ -1,1 +1,2 @@
 # RideHive
+RideHive is a scalable microservice-based taxi dispatching system that manages a pool of taxis to serve customers efficiently. The system leverages modern technologies to provide RESTful web services for stateless interactions and WebSockets for real-time streaming of taxi location updates. Additionally, AWS Simple Notification Service (Amazon SNS) is used for push-based notifications, such as taxi booking updates.
